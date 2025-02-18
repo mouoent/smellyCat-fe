@@ -1,0 +1,26 @@
+.navbar-brand img {
+    margin-right: 8px;
+  }
+  
+.logo-icon {
+    height: 32px; 
+    width: auto;
+    margin-right: 6px;
+}
+
+.nav-item{
+  font-weight: 700 !important;
+  font-size: 0.9rem;
+}
+
+.navbar-nav{
+  gap:2.5rem;
+}
+
+.brand-name {
+    font-size: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+

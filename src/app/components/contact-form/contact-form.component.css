@@ -1,0 +1,29 @@
+.form-message{
+    height: 168px;
+}
+
+app-map-info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; 
+}
+
+.btn{
+    max-width: 180px;    
+}
+
+.contact-desc{
+    font-family: 'Manrope', sans-serif !important;
+    font-weight: 600 !important; /* Semibold */
+}
+
+.form-label{
+    font-family: 'Manrope', sans-serif !important;
+    font-weight: 600 !important; /* Semibold */
+}
+
+.row {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-between;    
+}
