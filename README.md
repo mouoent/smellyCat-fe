@@ -9,12 +9,17 @@ Angular-based Contact Form with EmailJS & Google Maps Embed
 
 ## Installation and Setup
 
-### 1. Install Dependencies
+### 1. Clone repository
+````bash
+git clone https://github.com/mouoent/smellyCat-fe.git
+````
+
+### 2. Install Dependencies
 ````bash
 npm insttall
 ````
 
-### 2. Create `environment.ts`
+### 3. Create `environment.ts`
 This file is ignored by Git to protect your keys.
 1. Navigate to:
 ````bash
@@ -32,7 +37,7 @@ export const environment = {
 };  
 ````
 
-### 3. Start the Development Server
+### 4. Start the Development Server
 ````bash
 ng serve
 ````
